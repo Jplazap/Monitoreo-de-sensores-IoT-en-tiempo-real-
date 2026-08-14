@@ -4,6 +4,9 @@
 **Escenario:** Campus La María de la Universidad Técnica Estatal de Quevedo (UTEQ)  
 **Tecnologías:** React, Vite, Firebase Realtime Database y React Router DOM
 
+<img width="1883" height="1079" alt="image" src="https://github.com/user-attachments/assets/e93056a0-ef00-474a-beb1-77a4e50444d0" />
+
+
 ## 1. Objetivo
 
 Desarrollar una aplicación web telemática que se conecte a Firebase Realtime Database (RTDB) mediante el SDK oficial de Firebase para JavaScript y visualice, en tiempo real, las mediciones ambientales de sensores ubicados en el campus La María de la UTEQ.
