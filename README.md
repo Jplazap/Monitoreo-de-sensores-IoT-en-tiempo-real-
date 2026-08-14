@@ -4,7 +4,7 @@
 **Escenario:** Campus La María de la Universidad Técnica Estatal de Quevedo (UTEQ)  
 **Tecnologías:** React, Vite, Firebase Realtime Database y React Router DOM
 
-<img width="1883" height="1079" alt="image" src="https://github.com/user-attachments/assets/e93056a0-ef00-474a-beb1-77a4e50444d0" />
+<img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/9d395ee3-4f9b-4444-ab87-02232b716db9" />
 
 
 ## 1. Objetivo
